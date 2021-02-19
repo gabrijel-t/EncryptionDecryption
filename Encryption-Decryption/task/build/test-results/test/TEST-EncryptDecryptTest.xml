@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="EncryptDecryptTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-19T20:45:06" hostname="GABRIJEL-ASUS" time="0.181">
+  <properties/>
+  <testcase name="start" classname="EncryptDecryptTest" time="0.181"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+Have to write to file
+Data ready to be written: \jqhtrj%yt%m~ujwxpnqq&
+?[1;31m
+Start test 2?[0m
+Have to write to file
+Data ready to be written: Hello
+?[1;31m
+Start test 3?[0m
+Have to write to file
+Data ready to be written: 123456789
+?[1;31m
+Start test 4?[0m
+Data ready to be written: Welcome to hyperskill!
+Have to write to file
+?[1;31m
+Start test 5?[0m
+Data ready to be written: Hi
+Have to write to file
+?[1;31m
+Start test 6?[0m
+Data ready to be written: 111122223333
+Have to write to file
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
